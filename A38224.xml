@@ -1,0 +1,391 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Depositions and articles against Thomas Earle of Strafford Febr. 16. 1640</title>
+            <title>Proceedings. 1641-02-16</title>
+            <author>England and Wales. Parliament. House of Commons.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 54 KB of XML-encoded text transcribed from 24 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A38224</idno>
+            <idno type="STC">Wing E2571A</idno>
+            <idno type="STC">STC 25247</idno>
+            <idno type="STC">ESTC S100074</idno>
+            <idno type="EEBO-CITATION">99835926</idno>
+            <idno type="PROQUEST">99835926</idno>
+            <idno type="VID">160</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A38224)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1562:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Depositions and articles against Thomas Earle of Strafford Febr. 16. 1640</title>
+                  <title>Proceedings. 1641-02-16</title>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>[2], 41, 40-41, 44-45, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>in the yeare 1640 [i.e. 1641]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The year date is given in Lady Day dating.</note>
+                  <note>One of five STC entries representing an undetermined number of settings and combinations of formes. Sheets are often found mixed. In this setting of quire A, A3r line 3 ends "[italic:] England, [roman:] and those". Characteristics of other sheets associated by STC with this setting of A are: B2r line 4 begins "Court of Chancery," ("Chancery" has plain italic C); D1r line 3 ends "Officers of"; E1r line 1 ends "appoin-".</note>
+                  <note>Reproduction of the original in Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Strafford, Thomas Wentworth, --  Earl of, 1593-1641.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-09</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2012-09</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:160:1"/>
+            <pb facs="tcp:160:1" rendition="simple:additions"/>
+            <p>DEPOSITIONS AND ARTICLES AGAINST THOMAS EARLE OF STRAFFORD <hi>Febr.</hi> 16. 1640.</p>
+            <p>Printed in the yeare 1640.</p>
+         </div>
+         <div type="illustration">
+            <pb facs="tcp:160:2"/>
+            <p>
+               <figure/>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="articles_of_impeachment">
+            <pb facs="tcp:160:2"/>
+            <head>ARTICLES OF the Commons aſſembled in Parliament, againſt THOMAS, Earle of <hi>Strafford,</hi> in maintenance of their accuſation, whereby he ſtands charged of high Treaſon.</head>
+            <div n="1" type="article">
+               <head>I.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>Hat he the ſaid <hi>Thomas,</hi> Earle of <hi>Strafford,</hi> hath traiterouſ<g ref="char:EOLhyphen"/>ly endeavoured to ſubvert the fundamentall Lawes and government of the Realmes of England and Ireland, and inſtead there<g ref="char:EOLhyphen"/>of to introduce an arbitrary and tyranni<g ref="char:EOLhyphen"/>call Government againſt Law, which he hath declared by traiterous words, coun<g ref="char:EOLhyphen"/>ſels, and actions, and by giving his Maje<g ref="char:EOLhyphen"/>ſty advice, by force of Armes to compell
+<pb n="2" facs="tcp:160:3"/>his loyall ſubjects to ſubmit therunto.</p>
+            </div>
+            <div n="2" type="article">
+               <head>II.</head>
+               <p>That hee hath traiterouſly aſſumed to himſelfe Regall power over the lives, li<g ref="char:EOLhyphen"/>berties, perſons, lands, and goods of his Majeſties ſubjects in England and Ireland, and hath exerciſed the ſame tyrannically, to the ſubverſion and undoing of many both of Peeres and others of his Majeſties Liege people.</p>
+            </div>
+            <div n="3" type="article">
+               <head>III.</head>
+               <p>That the better to inrich and enable himſelfe to goe through with his traite<g ref="char:EOLhyphen"/>rous deſignes, hee hath detained a great part of his Majeſties revenue, without gi<g ref="char:EOLhyphen"/>ving legall account; and hath taken great ſummes out of the Exchequer, converting them to his owne uſe, when his Majeſty was neceſſirated for his owne urgent occa<g ref="char:EOLhyphen"/>ſions, and his Army had beene a long time unpaid.</p>
+            </div>
+            <div n="4" type="article">
+               <head>IV.</head>
+               <p>That hee hath traiterouſly abuſed the power &amp; authority of his government, to the increaſing, countenancing, and encou<g ref="char:EOLhyphen"/>raging of Papiſts, that ſo he might ſettle a mutuall dependance &amp; confidence betwixt himſelfe and that party, and by their helpe proſecute, and accompliſh his malicious and tyrannicall deſignes.</p>
+            </div>
+            <div n="5" type="article">
+               <pb n="3" facs="tcp:160:3"/>
+               <head>V.</head>
+               <p>That he hath maliciouſly endeavoured to ſtirre up enmity and hoſtility betweene his Majeſties ſubjects of <hi>England,</hi> and thoſe of <hi>Scotland.</hi>
+               </p>
+            </div>
+            <div n="6" type="article">
+               <head>VI.</head>
+               <p>That he hath traiterouſly broken the great truſt repoſed in him by his Majeſty, of Lieutenant generall of his Army, by wilfully betraying divers of his Majeſties ſubjects to death, his Army to a diſhonou<g ref="char:EOLhyphen"/>rable defeat by the Scots at Newborn, and the Towne of New-Caſtle into their hands, to the end, that by the effuſion of blood, by diſhonour, and ſo great a loſſe of New-Caſtle, his Majeſties Realme of England might be engaged in a Nationall and irreconciliable quarrell with the Scots.</p>
+            </div>
+            <div n="7" type="article">
+               <head>VII.</head>
+               <p>That to preſerve himſelfe from being queſtioned for thoſe and other his trai<g ref="char:EOLhyphen"/>terous courſes, hee laboured to ſubvert the right of Parliaments, and the anci<g ref="char:EOLhyphen"/>ent courſe of Parliamentary proceed<g ref="char:EOLhyphen"/>ings, and by falſe and malicious ſlan<g ref="char:EOLhyphen"/>ders to incenſe his Majeſtie againſt Par<g ref="char:EOLhyphen"/>liaments. By which words, counſels, and actions, hee hath traiterouſly, and con<g ref="char:EOLhyphen"/>trary
+<pb n="4" facs="tcp:160:4"/>to his Allegiance, laboured to alie<g ref="char:EOLhyphen"/>nate the hearts of the Kings liege people from his Majeſty, to ſet a diviſion be<g ref="char:EOLhyphen"/>tweene them, and to ruine and deſtroy his Majeſties Kingdomes, for which they im<g ref="char:EOLhyphen"/>peach him of high Treaſon againſt our Soveraigne Lord the King, his Crowne and dignitie.</p>
+            </div>
+            <div n="8" type="article">
+               <head>VIII.</head>
+               <p>And he the ſaid Earle of Strafford was Lord Deputie of Ireland, and Lieute<g ref="char:EOLhyphen"/>nant generall of the Army there, <hi>viz.</hi> His moſt excellent Majeſty for his Kingdomes, both of England and Ireland, and the L. Preſident of the North, during the time, that all and every the crimes and offences before ſet forth were done and commit<g ref="char:EOLhyphen"/>ted, and he the ſaid Earle was Lieutenant generall of all his Majeſties Army in the North parts of England, during the time that the crimes and offences in the fift and ſixt Articles ſet forth were done and com<g ref="char:EOLhyphen"/>mitted.</p>
+            </div>
+            <div n="9" type="article">
+               <head>IX.</head>
+               <p>And the ſaid Commons by proteſtati<g ref="char:EOLhyphen"/>ons, ſaving to themſelves the liberty of ex<g ref="char:EOLhyphen"/>hibiting at any time hereafter any other accuſation or impeachment againſt the ſaid Earle, and alſo of replying to the an<g ref="char:EOLhyphen"/>ſwers that he the ſaid Earle ſhall make un<g ref="char:EOLhyphen"/>to
+<pb n="5" facs="tcp:160:4"/>the ſaid Articles, or to any of them, and of offering proves alſo of the premiſ<g ref="char:EOLhyphen"/>ſes, or any of them, or any other impeach<g ref="char:EOLhyphen"/>ment or accuſation that ſhall be exhibited by them, as the cauſe ſhall according to the courſe of Parliaments require, doe pray that the ſaid Earle may be put to an<g ref="char:EOLhyphen"/>ſwer for all and every the premiſſes, that ſuch proceedings, examinations, tryals, and Judgements may bee upon every of them had and uſed, as is agreeable to Law and Juſtice.</p>
+            </div>
+         </div>
+         <div type="articles_of_impeachment">
+            <pb facs="tcp:160:5"/>
+            <pb n="7" facs="tcp:160:5"/>
+            <head>The further impeachment of <hi>Thomas</hi> Earle of <hi>Strafford,</hi> by the Com<g ref="char:EOLhyphen"/>mons aſſembled in Parlia<g ref="char:EOLhyphen"/>ment.</head>
+            <head type="sub">1640.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas the ſaid Com<g ref="char:EOLhyphen"/>mons have already exhibited Articles againſt the ſaid Earle formerly expreſſed, &amp;c. Now the ſaid Commons doe fur<g ref="char:EOLhyphen"/>ther impeach the ſaid Earle as follow<g ref="char:EOLhyphen"/>eth, &amp;c.</p>
+            <div n="1" type="article">
+               <head>I.</head>
+               <p>That he the ſaid Earle of <hi>Strafford</hi> the 21 day of <hi>March,</hi> in the 8. yeare of his now <hi>Majeſties</hi> Reigne, was preſident of the Kings Counſell in the Northerne parts of England.</p>
+               <p>That the ſaid ſaid Earle being Preſident
+<pb n="8" facs="tcp:160:6"/>of the ſaid Counſell on the 21. day of <hi>March,</hi> a Commiſſion under the great Seale of <hi>England,</hi> with certaine <hi>Schedules</hi> of in<g ref="char:EOLhyphen"/>ſtructions thereunto annexed, was directed to the ſaid Earle, or others the Commiſſio<g ref="char:EOLhyphen"/>ners therein named, wherby amongſt other things, power and authority is limited to the ſaid Earle, and others the Commiſſio<g ref="char:EOLhyphen"/>ners therein named, to heare and determine all offences, and miſdemeanors, ſuites, de<g ref="char:EOLhyphen"/>bates, controverſies, and demandes, cauſes, things, and matters, whatſoever therein contained, and within certaine precincts in the ſaid <hi>Northene</hi> parts therein ſpecified, and in ſuch manner as by the ſaid <hi>Schedule</hi> is limited and appointed.</p>
+               <p>That amongſt other things in the ſaid In<g ref="char:EOLhyphen"/>ſtructions, it is directed that the ſaid <hi>Preſi<g ref="char:EOLhyphen"/>dent</hi> &amp; others therein appointed, ſhal heare and determine according to the courſe of proceedings in the Court of <hi>Starchamber,</hi> divers offences, deceits, and falſities therein mentioned, <hi>whether the ſame be provided for by the Acts of Parliament, or not, ſo that the Fines impoſed be not leſse then by Act or Acts of Parliament provided for by thoſe offences is appointed.</hi>
+               </p>
+               <p>That alſo amongſt other things in the ſaid inſtructions, it is directed that the ſaid
+<pb n="9" facs="tcp:160:6"/>preſident, and others therein appointed, have power to examine, heare, and determine, ac<g ref="char:EOLhyphen"/>coring to the courſe of proceedings in the Court of <hi>Chancery,</hi> all manner of complaints for any matter within the ſaid precincts, as well concerning lands, tenements, and here<g ref="char:EOLhyphen"/>ditaments, either free-hold, Cuſtomary, or Copy-hold, as Leaſes, and other things ther<g ref="char:EOLhyphen"/>in mentioned, and to ſtay proceedings in the Court of Common Law by Injunction, or otherwiſe, by all wayes and means, as is uſed in the Court of Chancery.</p>
+               <p>And although the former Preſidents of the ſaid Counſell had never put in practice ſuch <hi>Inſtructions, nor had they any ſuch In<g ref="char:EOLhyphen"/>ſtructions,</hi> yet the ſaid Earle in the moneth of May, in the ſaid 8 yeare, and divers yeares following, did put in practiſe, exerciſe, and uſe, and cauſed to be uſed and put in practice the ſaid <hi>Commiſsion and Inſtructions,</hi> and did direct and exerciſe an exorbitant and un<g ref="char:EOLhyphen"/>lawfull power and juriſdiction on the per<g ref="char:EOLhyphen"/>ſons and eſtates of his Majeſties ſubjects in thoſe parts, and did diſ-inherit divers of his Majeſties ſubjects in thoſe parts of their in<g ref="char:EOLhyphen"/>heritances, ſequeſtred their poſſeſſions, &amp; did fine, ranſome, puniſh and impriſon them, and cauſed them to be fined, ranſomed, puniſhed, and impriſoned, to their ruine &amp; deſtruction,
+<pb n="10" facs="tcp:160:7"/>and namely, Sir <hi>Coniers Darcy,</hi> Sir <hi>Iohn Bour<g ref="char:EOLhyphen"/>cher,</hi> and divers others, againſt the Lawes, and in ſubverſion of the ſame. And the ſaid Commiſſion and Inſtrnctions were procu<g ref="char:EOLhyphen"/>red and iſſued by the advice of the ſaid Earle.</p>
+               <p>And he the ſaid Earle, to the intent that ſuch illegall and unjuſt power might be ex<g ref="char:EOLhyphen"/>erciſed with the greater Licenſe and will, did adviſe, counſell, and procure further directi<g ref="char:EOLhyphen"/>ons, in and by the ſaid Inſtructions to be gi<g ref="char:EOLhyphen"/>ven, that no prohibition be granted at all, but in caſes where the ſaid Counſell ſhall exceed the limits of the ſaid inſtructions: And that if any Writ of <hi>Habeas Corpus</hi> be granted, the party be not diſcharged till the party per<g ref="char:EOLhyphen"/>forme the Decree and Order of the ſaid Counſell.</p>
+               <p>And the ſaid Earle in the 13. yeare of his now Majeſties Reigne, did procure a new Commiſſion to himſelfe and others therein appointed, with the ſaid Inſtructions, and other unlawfull additions.</p>
+               <p>That the ſaid Commiſſion and inſtructi<g ref="char:EOLhyphen"/>ons were procured by the ſolicitation and advice of the ſaid Earle of <hi>Strafford.</hi>
+               </p>
+            </div>
+            <div n="2" type="article">
+               <head>II.</head>
+               <p>That ſhortly after the obtaining of the ſaid Commiſſion dated the 21 of <hi>March,</hi> in the 8
+<pb n="11" facs="tcp:160:7"/>yeare of his now Majeſties Reigne (to wit) the laſt day of <hi>Auguſt</hi> then next following, he the ſaid Earle (to bring his Majeſty liege people into a diſlike of his Majeſty and of his Government, and to terrifie the Juſtices of the Peace from executing of the Lawes: he the ſaid Earle, being then Pre<g ref="char:EOLhyphen"/>ſident, as aforeſaid, and a Juſtice of Peace) did publiquely at the Aſſiſes held for the County of <hi>Yorke,</hi> in the Citie of <hi>Yorke,</hi> in and upon the ſaid laſt day of <hi>Auguſt,</hi> declare and publiſh before the people there attend<g ref="char:EOLhyphen"/>ing for the adminiſtration of Juſtice accor<g ref="char:EOLhyphen"/>ding to the Law, and in the preſence of the Juſtices ſitting; <hi>That ſome of the Juſtices were all for Law, but they ſhould finde that the Kings little ſinger ſhould be heavier than the loynes of the Law.</hi>
+               </p>
+            </div>
+            <div n="3" type="article">
+               <head>III.</head>
+               <p>That the Realme of Ireland having beene time out of minde annexed to the Imperiall Crowne of this his Majeſties Realme of <hi>England,</hi> and governed by the ſame Lawes: the ſaid Earle being Lord Deputy of that Realme, to bring his Maje<g ref="char:EOLhyphen"/>ſties liege people of that Kingdome like<g ref="char:EOLhyphen"/>wiſe into diſlike of his Majeſties govern<g ref="char:EOLhyphen"/>ment, and intending the ſubverſion of the ſundamentall Lawes and ſetled government
+<pb n="12" facs="tcp:160:8"/>of that Realme, and the diſtraction of his Majeſties liege people there, did upon the 30 day of September, in the ninth yeare of his now Majeſties Reigne, in the Citie of <hi>Dublin</hi> (the chiefe City of that Kingdome, where his Majeſties privie Counſell, and Courts of Juſtice doe ordinarily reſide, and whether the Nobilitie and Gentry of that Realme doe uſually reſort for Juſtice,) in a publike Speech before divers of the Nobi<g ref="char:EOLhyphen"/>litie and Gentry, and before the Major, Aldermen, and Recorder, and many Ci<g ref="char:EOLhyphen"/>rizens of <hi>Dublin,</hi> and other his Majeſties Liege people, declare and publiſh, that <hi>Jreland was a conquered Nation, and that the King might doe with them what he pleaſed; and ſpeaking of the Charters of the former Kings of England made to that Citie, hee further ſaid, that their Charters were nothing worth, and did bind the King no further then he pleaſed.</hi>
+               </p>
+            </div>
+            <div n="4" type="article">
+               <head>IV.</head>
+               <p>That <hi>Richard</hi> Earle of <hi>Corke,</hi> having ſued out Proceſſe in courſe of Law for reco<g ref="char:EOLhyphen"/>very of his poſſeſſions, from which he was put by colour of an order made by the ſaid Earle of <hi>Strafford,</hi> and the Councell Table of the ſaid Realme of Ireland. The ſaid Earle of Strafford, upon a paper Petition without legall proceeding, did the 20. day of Fe<g ref="char:EOLhyphen"/>bruary,
+<pb n="13" facs="tcp:160:8"/>in the 11. yeere of his now Maje<g ref="char:EOLhyphen"/>ſties Reigne, threaten the ſaid Earle of <hi>Corke (being then a Peere of the ſaid Realme)</hi> to impriſon him, unleſſe he would ſurceaſe his ſnit, and ſaid, <hi>That hee would have neither Law nor Lawyers diſpute or queſtion any of his orders.</hi> And the 20 day of <hi>March</hi> in the ſaid 1<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> yeare of the ſaid Earle of <hi>Strafford,</hi> ſpeaking of an order of the ſaid Counfell Table of that Realme, in the time of King <hi>James,</hi> which concerned a Leaſe which the ſaid Earle of <hi>Corke</hi> claimed in certaine rectories or tithes which the ſaid Earle of <hi>Corke</hi> alleadged to be of no force, ſaid, <hi>That he would make the ſaid Earle and all Ireland know, ſo long as he had the Government there, any Act of State, there made, or to be made, ſhould bee as binding to the ſubjects of that Kingdome, as an Act of Parliament: And did queſtion the ſaid Earle of Corke in the Caſtle Chamber, upon pretence of breach of the ſaid order of Counſell Table, and did ſundry ther times, and ſet upon ſundry other occaſi<g ref="char:EOLhyphen"/>ons by his words and ſpeeches arrogate to him<g ref="char:EOLhyphen"/>ſelfe a power above the fundamentall lawes, and eſtabliſhed Government of that Kingdom, and ſcorned the ſaid Lawes and eſtabliſhed Government.</hi>
+               </p>
+            </div>
+            <div n="5" type="article">
+               <pb n="14" facs="tcp:160:9"/>
+               <head>V.</head>
+               <p>That according to ſuch his declarations and ſpeeches, the ſaid Earle of <hi>Strafford</hi> did uſe and exerciſe a power above, &amp; againſt, and to the ſubvertion of the ſaid fundamen<g ref="char:EOLhyphen"/>tall Lawes, and ſtabliſhed government of the ſaid Realme of <hi>Jreland,</hi> extending ſuch his power to the goods, free-holds, inheri<g ref="char:EOLhyphen"/>tances, Liberties, and lives of his Majeſties Subjects of the ſaid Realme, <hi>viz.</hi> The ſaid Earle of <hi>Strafford</hi> the 12. day of <hi>December, Anno Dom.</hi> 1635. in the time of full peace, did in the ſaid Realm of <hi>Jreland,</hi> give and procure to bee given againſt the Lord <hi>Mount-Norris</hi> (then and yet a Peere of <hi>Jre<g ref="char:EOLhyphen"/>land,</hi> and then Vice-Treaſurer and receiver generall of the Realme of <hi>Ireland,</hi> and one of the principall Secretaries of State, and Keeper of the Privie Signet of the ſaid Kingdome, a ſentence of death by a Councell of Warre called together by the ſaid Earle of <hi>Strafford,</hi> without any warrant or authority of Law, or offence de<g ref="char:EOLhyphen"/>ſerving any ſuch puniſhment. And he the ſaid Earle die alſo at <hi>Dublin</hi> within the ſaid Realme of <hi>Jreland,</hi> in the moneth of <hi>March,</hi> in the 14 yeare of his Majeſties Reigne without any legall or due procee<g ref="char:EOLhyphen"/>dings or tryall, give or cauſe to bee given, a ſentence of death againſt one other of his
+<pb n="15" facs="tcp:160:9"/>Majeſties Subjects, whoſe name is yet un<g ref="char:EOLhyphen"/>knowne, and cauſed him to be put to death in execution of the ſaid ſentence.</p>
+            </div>
+            <div n="6" type="article">
+               <head>VI.</head>
+               <p>That the ſaid Earle of <hi>Strafford,</hi> without any legall proceedings, and upon a paper Petition of <hi>Richard Ralſtone,</hi> did cauſe the ſaid Lord <hi>Mount-Norris</hi> to be diſſeized and put out of poſſeſſion of his free-hold and inheritance of his <hi>Mannor and Tymore</hi> in the Countrey of <hi>Armagh,</hi> in the King<g ref="char:EOLhyphen"/>dome of <hi>Ireland,</hi> the ſaid Lord <hi>Mount-Norris</hi> having beene two yeares before in quiet poſſeſſion therof.</p>
+            </div>
+            <div n="7" type="article">
+               <head>VII.</head>
+               <p>That the ſaid Earle of <hi>Strafford,</hi> in the Terme of Holy Trinity, in the 13 yeere of his now Majeſties Reigne; did cauſe a caſe commonly called <hi>the caſe of Tenures upon defective titles,</hi> to be made and drawne up without any jury or tryall, or other legall proceſſe, &amp; without the conſent of parties, and did then procure the Judges of the ſaid Realme of <hi>Jreland</hi> to deliver their opini<g ref="char:EOLhyphen"/>ons and reſolutions to that caſe, and <hi>by co<g ref="char:EOLhyphen"/>lour of ſuch opinion, did without any legall pro<g ref="char:EOLhyphen"/>ceeding,</hi> cauſe <hi>Thomas Lord Dillon,</hi> a Peere of the ſaid Realme of <hi>Jreland,</hi> to be put out
+<pb n="16" facs="tcp:160:10"/>of poſſeſſion of divers Lands and Tene<g ref="char:EOLhyphen"/>ments, being his free-hold in the Countrey of <hi>Mago</hi> and <hi>Roſecomen,</hi> in the ſaid King<g ref="char:EOLhyphen"/>dome, and divers other of his Majeſties ſub<g ref="char:EOLhyphen"/>jects to be alſo put out of poſſeſſion, and diſſeized of their free hold by colour of the ſame reſolution, without legall procee<g ref="char:EOLhyphen"/>dings, whereby many hundreds of his Ma<g ref="char:EOLhyphen"/>jeſties ſubjects were undone, and their families utterly ruinated.</p>
+            </div>
+            <div n="8" type="article">
+               <head>VIII.</head>
+               <p>That the ſaid Earle of <hi>Strafford</hi> upon a Petition of Sir <hi>Iohn Gifford</hi> Knight, the firſt day of <hi>February,</hi> in the ſaid 13 yeare of his Majeſties Reigne, without any legall proceſſe, <hi>made a Decree or Order againſt Adam Viſcount Lofts of Elie, a Peere of the ſaid Realme of Jreland, and Lord Chancellor of Jreland,</hi> and did cauſe the ſaid Uiſcount to bee impriſoned and kept cloſe priſoner, on pretence of diſobedience to the ſaid de<g ref="char:EOLhyphen"/>cree or order.</p>
+               <p>
+                  <hi>And the ſaid Earle without any authori<g ref="char:EOLhyphen"/>ty, and contrary to his Commiſsion, requi<g ref="char:EOLhyphen"/>red and commanded the ſaid Lord Viſ<g ref="char:EOLhyphen"/>count to yeeld unto him the great Seale of the Realme of Ireland, which was then in his cuſtody, by his Majeſties command,
+<pb n="17" facs="tcp:160:10"/>and impriſoned the ſaid Chancellor for not obeying ſuch his command.</hi>
+               </p>
+               <p>
+                  <hi>And without any legall proceedings, did in the ſame thirteenth yeare impriſon</hi> George <hi>Earle of Kildare, a Peere of Jreland, againſt Law, thereby to enforce him to ſubmit his title to the Mannor and Lord<g ref="char:EOLhyphen"/>ſhip of Caſtle Leigh in the Queenes Coun<g ref="char:EOLhyphen"/>tie, (being of great yearely value) to the ſaid Earle of Straffords will and pleaſure, and kept him a yeare priſoner for the ſaid cauſe, two moneths whereof he kept him cloſe priſoner, and refuſed to enlarge him, not<g ref="char:EOLhyphen"/>withſtanding his Majeſties Letters for his enlargement to the ſaid Earle of Strafford directed.</hi>
+               </p>
+               <p>And upon a Petition exhibited in Octo<g ref="char:EOLhyphen"/>ber, 1635. by <hi>Thomas Hibbots</hi> againſt dame <hi>Mary Hibbots</hi> Widdow, to him the ſaid Earle of <hi>Strafford,</hi> the ſaid Earle of <hi>Straf<g ref="char:EOLhyphen"/>ford</hi> recommended the ſaid Petition to the Counſell Table of Ireland, where the moſt part of the Counſell gave their vote and opinion for the ſaid Lady, but the ſaid Earle finding fault herewith, cauſed an order to be entred againſt the ſaid Lady, and threatned her, that if ſhee refuſed to ſubmit thereunto, he would impriſon her,
+<pb n="18" facs="tcp:160:11"/>and fine her five hundred pound; that if ſhe continued obſtinate, he would continue her impriſonment, and double her fine every month by month, whereof ſhe was enforced to relinquiſh her eſtate in the land queſtio<g ref="char:EOLhyphen"/>ned in the ſaid Petition, which ſhortly was conveyed to Sir <hi>Robert Meredith,</hi> to the uſe of the ſaid Earle of <hi>Strafford.</hi>
+               </p>
+               <p>And the ſaid Earle in like manner did impriſon divers others of his Majeſties Sub<g ref="char:EOLhyphen"/>jects upon pretence of diſobedience to his orders and decrees, and other illegall com<g ref="char:EOLhyphen"/>mand by him made for pretended debts, titles of Lands, and other cauſes in an arbi<g ref="char:EOLhyphen"/>trary and extrajudiciall courſe, upon Paper Petitions to him preferred, and no other cauſe legally depending.</p>
+            </div>
+            <div n="9" type="article">
+               <head>IX.</head>
+               <p>That the ſaid Earle of <hi>Strafford</hi> the ſix<g ref="char:EOLhyphen"/>tenth day of <hi>Febr.</hi> in the 12. yeare of his now Majeſties Reigne, aſſuming to himſelfe a power above and againſt Law, tooke upon him by a generall <hi>Warrant</hi> under his hand, to give power to the Lord Biſhop of <hi>Down,</hi> and <hi>Connor</hi> his Chancellor, or Chancellors, to their ſeverall Officers thereto to bee appointed, to Attach and Arreſt the Bodies
+<pb n="19" facs="tcp:160:11"/>of all ſuch of the meaner and poorer ſort, where after citation ſhould either refuſe to appeare before them, or appearing ſhould omit, or deny to performe, or undergoe all lawfull <hi>decrees, ſentences, and orders, iſſued, impoſed, or given out againſt them, and them, to commit and keepe in the next Goale, untill they ſhould either performe ſuch ſentences, or put in ſufficient Baile to ſhew ſome reaſon be<g ref="char:EOLhyphen"/>fore the Counſell Table, of ſuch their contempt and neglect;</hi> and the ſaid Earle, the day and yeare laſt mentioned, ſigned and iſſued a Warrant to that effect, and made the like Warrant to ſend to all other Biſhops and their Chancellors in the ſaid Realme of Ireland to the ſame effect.</p>
+            </div>
+            <div n="10" type="article">
+               <head>X.</head>
+               <p>That the ſaid Earle of <hi>Strafford</hi> being Lord Lieutenant, or Deputy of <hi>Jreland, procured the Cuſtomes of the Merchandize ex<g ref="char:EOLhyphen"/>ported out, and imported into that Realme to be farmed to his owne uſe.</hi>
+               </p>
+               <p>And in the ninth yeare of his now Ma<g ref="char:EOLhyphen"/>jeſties Reigne, he having then intreſt in the ſaid Cuſtomes (to advance his owne gaine and lucre) did cauſe and procure the na<g ref="char:EOLhyphen"/>tive
+<pb n="20" facs="tcp:160:12"/>commodities of <hi>Jreland,</hi> to be rated in the booke of Rates for the Cuſtomes (ac<g ref="char:EOLhyphen"/>cording to which the Cuſtomes were uſual<g ref="char:EOLhyphen"/>ly gathered) at farre greater values and prices, then in truth they were worth (that is to ſay) every hide at 20. ſhillings, which in truth was worth but five ſhillings, every ſtone of Wooll at thirteene ſhillings foure pence, though the ſame ordinarily were worth but five ſhillings, at the utmoſt but nine ſhillings; by which meanes the cuſtome which before was but a twentieth part of the true value of the commoditie, was inhanſed ſometimes to a fift part, and ſometimes to a fourth, and ſometimes to a third part of the true value, to the great oppreſſion of the ſub<g ref="char:EOLhyphen"/>jects, and decay of <hi>Marchandize.</hi>
+               </p>
+            </div>
+            <div n="11" type="article">
+               <head>XI.</head>
+               <p>That the ſaid Earle, in the ninth yeare of his now Majeſties Reigne, did by his own will and pleaſure, and for his owne lucre reſtraine the exportation of the commodi<g ref="char:EOLhyphen"/>ties of that Kingdome without his licence, <hi>as namely, Pipe-ſtaves,</hi> and other commodi<g ref="char:EOLhyphen"/>ties, and then raiſed great ſummes of money for licenſing of exportation of thoſe com<g ref="char:EOLhyphen"/>modities, and diſpenſation of the ſaid re<g ref="char:EOLhyphen"/>ſtraints impoſed on them, by which means
+<pb n="21" facs="tcp:160:12"/>the <hi>pipe-staves</hi> were raiſed from foure pound ten ſhillings; or 5 pound <hi>per</hi> thou<g ref="char:EOLhyphen"/>ſand to ten pound, and ſometimes eleven pound <hi>per</hi> thouſand, <hi>and other commodities were inhanced in the like proportion, and by the ſame meanes by him the ſaid Earle.</hi>
+               </p>
+            </div>
+            <div n="12" type="article">
+               <head>XII.</head>
+               <p>That the ſaid Earle being <hi>Lord Deputy of Ireland,</hi> on the ninth day of <hi>Ianuary</hi> in the thirteenth yeere of his Majeſties Reigne, did then under colour to regulate the <hi>Importation</hi> of Tobacco into the ſaid Realme of <hi>Ireland,</hi> iſſue a Proclamation in his Majeſties name, prohibiting the impor<g ref="char:EOLhyphen"/>tation of Tobacco without licence of him and the Counſell, there from and af<g ref="char:EOLhyphen"/>ter the firſt day of <hi>May, Anno Dom.</hi> 1638. after which reſtraint, the ſaid Earle, not<g ref="char:EOLhyphen"/>withſtanding the ſaid reſtraint, cauſed di<g ref="char:EOLhyphen"/>vers great quantities of Tobacco to be im<g ref="char:EOLhyphen"/>ported to his owne uſe, and fraughted di<g ref="char:EOLhyphen"/>vers ſhips with <hi>Tobacco,</hi> which he impor<g ref="char:EOLhyphen"/>ted to his owne uſe: and that if any ſhip brought Tobacco into any Port there, the ſaid Earle and his Agents uſed to buy the ſame to his owne uſe, at their owne price. <hi>And if that the owners refuſed to let him have the ſame at under values, then they were not permitted to vent the ſame;</hi>
+                  <pb n="22" facs="tcp:160:13"/>by which undue meanes, the Earle having gotten the whole Trade of <hi>Tobacco,</hi> into his owne hands, he ſold it at great and ex<g ref="char:EOLhyphen"/>ceſſive prices, ſuch as he liſt to impoſe for his owne profit.</p>
+               <p>And the more to aſſure the ſaid <hi>Mono<g ref="char:EOLhyphen"/>poly of Tobacco,</hi> he the ſaid Earle on the 23. day of <hi>February, in the thirteenth yeare a<g ref="char:EOLhyphen"/>foreſaid, did iſſue another Proclamation;</hi> commanding that none ſhould put to ſale any <hi>Tobacco</hi> by whole-ſale, from and after the laſt day of <hi>May,</hi> then next following but what ſhould bee made up into Rolls, and the ſame ſealed with two Seales by himſelfe appointed, one at each end of the Roll. And ſuch as was not Sealed to bee ſeized, appointing ſixe pence the pound for a reward to ſuch perſons as ſhould ſeize the ſame: and the perſons in whoſe cuſto<g ref="char:EOLhyphen"/>dy the unſealed Tobacco ſhould be found to be committed to Goale, which laſt pro<g ref="char:EOLhyphen"/>clamation was covered by a pretence for the reſtraining of the ſeale of unholſome Tobacco, but it was truely to advance the ſaid Monopoly.</p>
+               <p>Which Proclamation the ſaid Earle did rigorouſly put in execution, by ceazing the goods, fining, impriſoning, whipping, and putting the offenders againſt the ſame Pro<g ref="char:EOLhyphen"/>clamation
+<pb n="23" facs="tcp:160:13"/>on the pillory, as namely, <hi>Barna<g ref="char:EOLhyphen"/>by Hubbard, Edward Covena, John Tumen,</hi> &amp; divers others: and made the Officers of State, and Juſtices of Peace, and other Offi<g ref="char:EOLhyphen"/>cers to ſerve him in compaſſing and execu<g ref="char:EOLhyphen"/>ting theſe unjuſt and undue courſes, by which cruelties and unjuſt Monopolies, the ſaid Earle riſed 100000. pound <hi>per annum</hi> gaine to himſelfe. And yet the ſaid Earle though he inhanced the Cuſtomes, where it concerned the Merchants in generall, yet drew downe the impoſt formerly taken on Tobacco from fixe pence the pound to 3. pence the pound, it being for his owne profit ſo to doe. And the ſaid Earle, by the ſame, and other rigorous and undue meanes, raiſed ſeverall other Monopolies and unlawfull exactions for his own gaine, <hi>viz.</hi> on Starch, Iron pots, Glaſſes, To<g ref="char:EOLhyphen"/>bacco pipes, and ſeverall other commodi<g ref="char:EOLhyphen"/>ties.</p>
+            </div>
+            <div n="13" type="article">
+               <head>XIII.</head>
+               <p>That flaxe being one of the principall &amp; native Commodities of that Kingdome of <hi>Ireland,</hi> the ſaid Earle having gotten great quantities thereof into his hands, &amp; grow<g ref="char:EOLhyphen"/>ing on his owne Lands, did iſſue out ſeverall Proclamations, <hi>viz.</hi> one dated the one and twentieth day of <hi>May,</hi> in the eleventh of his
+<pb n="24" facs="tcp:160:14"/>Majeſties raign, and the other dated the 31 day of Ianuary in the ſame yeare, there<g ref="char:EOLhyphen"/>by preſcribing and injoyning the working of Flax into Yarne and Thread, and the ordering of the ſame in ſuch waies wherin the Natives of that Kingdome were unpra<g ref="char:EOLhyphen"/>ctiſed and unskilfull: which Proclamations ſo iſſued, were, by his commands and war<g ref="char:EOLhyphen"/>rants to his Majeſties Juſtices of Peace, and other Officers, and by other rigorous meanes put in execution, and the Flaxe wrought or ordered in other manner then as the ſaid Proclamation preſcribed, was ſeazed and employed to the uſe of him and his agents, and thereby the ſaid Earle en<g ref="char:EOLhyphen"/>deavoured to gaine, and did gaine in effect the ſole ſale of that native commodity.</p>
+            </div>
+            <div n="14" type="article">
+               <head>XIV.</head>
+               <p>That the ſaid Earle of <hi>Strafford,</hi> by Pro<g ref="char:EOLhyphen"/>clamation dated the 16 day of <hi>October,</hi> in the 14 yeare of his Majeſties Raigne, did mpoſe upon the Owners, Maſters, Pur<g ref="char:EOLhyphen"/>ſers, and Boatſwaines of every ſhip, a new and unlawfull oath, <hi>viz.</hi> that they (two or more of them) immediately after the arri<g ref="char:EOLhyphen"/>vall of any ſhip within any Port or Creeke in the ſaid Kingdom of <hi>Ireland,</hi> ſhould give in a true in voyce of the outward bulke of
+<pb n="25" facs="tcp:160:14"/>Wares and Merchandiſes, and number of goods, and the qualities and condition of the ſaid goods, as farre as to them ſhould be known, the names of the ſeverall Merchants proprietours of the ſaid goods, and the pla<g ref="char:EOLhyphen"/>ces from whence they were fraughted, and whither they were bound to diſcharge: which Proclamation was accordingly put in execution, and ſundry perſons enforced to take the ſaid unlawfull Oath.</p>
+            </div>
+            <div n="15" type="article">
+               <head>XV.</head>
+               <p>That the ſaid Earle of <hi>Strafford</hi> trayte<g ref="char:EOLhyphen"/>rouſly and wickedly deviſed and contrived by force of Armes in a warlike manner to ſubdue the Subjects of the ſaid Realme of <hi>Jreland,</hi> to bring them under his tyrannicall power and will, and in purſuance of his wic<g ref="char:EOLhyphen"/>ked and trayterous purpoſes aforeſaid, the ſaid Earle of <hi>Strafford</hi> in the eighth yeare of his Majeſties Reigne, did by his owne autho<g ref="char:EOLhyphen"/>rity, without any warrant or colour of Law, tax and impoſe great ſummes of money up<g ref="char:EOLhyphen"/>on the Townes of <hi>Baltemore, Baudenbridge, Talowe,</hi> and divers other Townes and pla<g ref="char:EOLhyphen"/>ces in the ſaid Realme of <hi>Jreland,</hi> and did cauſe the ſame to be levied upon the Inhabi<g ref="char:EOLhyphen"/>tants of thoſe Townes by troopes of Souldi<g ref="char:EOLhyphen"/>ers, with force and armes, in a warlike man<g ref="char:EOLhyphen"/>ner.
+<pb n="26" facs="tcp:160:15"/>And on the ninth day of <hi>March,</hi> in the twelfth yeare of his now Majeſties Reigne, trayterouſly did give authoritie unto <hi>Robert Savile,</hi> a Serjeant at Armes, and to the Cap<g ref="char:EOLhyphen"/>taines of the Companies of Souldiers, in ſe<g ref="char:EOLhyphen"/>verall parts of that Realme, to ſend ſuch numbers of Souldiers to lye on the Lands and Houſes of ſuch as would not conforme to his orders, untill they ſhould render obe<g ref="char:EOLhyphen"/>dience to his ſaid orders and warrants, and after ſuch ſubmiſſion (and not before) the ſaid Souldiers to returne to their Garriſons. And did alſo iſſue the like Warrants unto di<g ref="char:EOLhyphen"/>vers others, which Warrants were in war<g ref="char:EOLhyphen"/>like manner, with force and Armes put in execution accordingly, and by ſuch warlike meanes did force divers of his Majeſties ſub<g ref="char:EOLhyphen"/>jects of that Realme, to ſubmit themſelves to his unlawfull commands.</p>
+               <p>And in the ſaid twelfth yeare of his Ma<g ref="char:EOLhyphen"/>jeſties Reigne, the ſaid Earle of <hi>Strafford</hi> did trayterouſly cauſe certaine troupes of horſe and foote, armed in warlike manner, and in warlike aray, with force and armes, to expell <hi>Richard Butler</hi> from the poſſeſſion of <hi>Caſtle-Cumber,</hi> in the Territory of <hi>Idough,</hi> in the ſaid Realme of <hi>Ireland,</hi> and did likewiſe and in like warlike manner, expell divers of his Majeſties Subjects from their houſes, fami<g ref="char:EOLhyphen"/>lies,
+<pb n="27" facs="tcp:160:15"/>and poſſeſſions, as namely, <hi>Edward Bren<g ref="char:EOLhyphen"/>man. Owen Oberman, Patricke Oberman,</hi> Sir <hi>Cyprian Horsfield,</hi> and divers others, to the number of about an hundred families, and tooke and impriſoned them and their wives, and carryed them priſoners to <hi>Dublin,</hi> and there detained them untill they did yeeld up, ſurrender, or releaſe their reſpective eſtates and rights.</p>
+               <p>
+                  <hi>And the ſaid Earle, in like warlike man<g ref="char:EOLhyphen"/>ner, hath during his government of the ſaid Kingdome of Jreland, ſubdued divers others of his Majeſties ſubjects eaſily to his will, and thereby, and by the meanes aforeſaid, hath le<g ref="char:EOLhyphen"/>vied warre within the ſaid Realme againſt his Majeſtie, and his liege people of that King<g ref="char:EOLhyphen"/>dome.</hi>
+               </p>
+            </div>
+            <div n="16" type="article">
+               <head>XVI.</head>
+               <p>That the ſaid Earle of <hi>Strafford,</hi> the two and twentieth of February, in the ſeventh yeare of his now Majeſties Reigne, intending to oppreſſe the ſaid Subjects of <hi>Ireland,</hi> did make a propoſition, and obtained from his Majeſty an allowance, that no complaint of injuſtice or oppreſſion done in <hi>Ireland,</hi> ſhould be received in <hi>England</hi> againſt any, unleſſe it firſt appeared, that the party made firſt his
+<pb n="28" facs="tcp:160:16"/>addreſſe to him the ſaid Earle: and the ſaid Earle having by ſuch uſurped, tyrannicall and exorbitant power, expreſſed in the former Articles, deſtroyed the Peeres and other ſub<g ref="char:EOLhyphen"/>jects of that Kingdome of Ireland, in their lives, conſciences, land, liberties, and eſtates, the ſaid Earl to the intent the better to main<g ref="char:EOLhyphen"/>taine and ſtrengthen his power, and to bring the people into a diſaffection of his Majeſty, as aforeſaid, did uſe his Majeſties name in the execution of his ſaid power. And to pre<g ref="char:EOLhyphen"/>vent the ſubjects of that Realme of all means of complaints to his Majeſty, and of redreſſe againſt him and his agents, did iſſue a Pro<g ref="char:EOLhyphen"/>clamation bearing date the ſeventeenth day of September, in the eleventh yeare of his Majeſties Reigne, thereby commanding all the Nobilitie, undertakers and others, who held eſtates and offices in the ſaid kingdome (except ſuch as were employed in his Maje<g ref="char:EOLhyphen"/>ſties ſervice, or attending in England by his ſpeciall command) to make their perſonall reſidence in the ſaid Kingdome of Ireland, and not to depart thence without licence of himſelfe. And the ſaid Earle hath ſince iſſu<g ref="char:EOLhyphen"/>ed other Proclamations to the ſame purpoſe, by meanes whereof the ſubjects of the ſaid Realme are reſtrained from ſeeking reliefe againſt the oppreſſions of the ſaid Earle without his licence: which Proclamation the
+<pb n="29" facs="tcp:160:16"/>ſaid Earle hath by ſeverall rigoruos waies, as by fine, impriſonment, and otherwiſe, put in execution on his Majeſties ſubjects, as namely, one — <hi>Parry,</hi> and others, who came over only to complaine of the exor<g ref="char:EOLhyphen"/>bitances and oppreſſions of the ſaid Earle.</p>
+            </div>
+            <div n="17" type="article">
+               <head>XVII.</head>
+               <p>That the ſaid Earle having by ſuch meanes as aforeſaid, ſubverted the govern<g ref="char:EOLhyphen"/>ment &amp; lawes of the Kingdome of Ireland, did in March in the 16 yeare of his Maje<g ref="char:EOLhyphen"/>ſties Reigne, in ſcandall of his Majeſtie, of all his Kingdomes, &amp; in further execution of his wicked purpoſes aforeſaid, ſpeaking of the Armies in Ireland, declare, that his Majeſty was ſo well pleaſed with the Army of Ireland, and the conſequence thereof, that his Majeſty would certainely make the ſame a patterne for all his three King<g ref="char:EOLhyphen"/>domes.</p>
+            </div>
+            <div n="18" type="article">
+               <head>XVIII.</head>
+               <p>That the ſaid Earle of Strafford, for the better effecting of his traytrous deſignes &amp; wicked pupoſes, did indeavour to draw de<g ref="char:EOLhyphen"/>pendency upon himſelfe of the Papiſts in both Kingdomes of Eengland and Ireland, and to that end during the time of governe<g ref="char:EOLhyphen"/>ment
+<pb n="30" facs="tcp:160:17"/>in <hi>Jreland,</hi> hee reſtored divers Frie<g ref="char:EOLhyphen"/>ries and Maſſe-houſes (which had beene formerly ſuppreſſed by precedent Depu<g ref="char:EOLhyphen"/>ties of that Kingdome, two of which hou<g ref="char:EOLhyphen"/>ſes were in the City of <hi>Dublin,</hi> &amp; had been aſſigned to the uſe of the Univerſity there) to the pretended owners thereof, who have ſince imployed the ſame to the exerciſe of the Popiſh Religion.</p>
+               <p>
+                  <hi>And in the moneth of May and Iune laſt, the ſaid Earle did raiſe an Army in the ſaid Realme of England, conſiſting of eight thou<g ref="char:EOLhyphen"/>ſand foote, all of which, except one thouſand or there abouts, were Papiſts, and the ſaid one thouſand were drawne out of the old Army there conſiſting of two thouſand foot, and in their places there were a thouſand Papiſts, or thereabouts, put into the ſaid old Army by the ſaid Earle.</hi>
+               </p>
+               <p>And the more to ingage and tye the new Army of Papiſts to himſelfe, and to encourage them, and to diſcourage and weare out the old Army, the ſaid Earle did ſo provide; <hi>That the ſaid new Army of Pa<g ref="char:EOLhyphen"/>piſts were duely paid, and had all neceſſaries provided for them, and permitted the exerciſe of their Religion, but the ſaid old Army were for the ſpace of one whole yeare and upwards unpaid.</hi>
+               </p>
+               <pb n="31" facs="tcp:160:17"/>
+               <p> And that the ſaid Earle being appoin<g ref="char:EOLhyphen"/>ted a Commiſſioner within eleven ſeverall Counties in the Northern parts of <hi>England,</hi> for compounding with Recuſants for their forfeitures due to his Majeſtie; which com<g ref="char:EOLhyphen"/>miſſion beareth date the eight day of July in the fift yeare of his Majeſties Reigne that now is, and being alſo receiver of the compoſition money thereby ariſing, and of other debts, duties, and penalties for his Majeſties uſe, by Letters Patents, dated the ninth day of the ſaid July: he, to engage the ſaid Recuſants to him, did compound with them at low and under rates, and pro<g ref="char:EOLhyphen"/>vided that they ſhould be diſcharged of all proceedings againſt them, in all his Maje<g ref="char:EOLhyphen"/>ſties Courts, both temporall and Eccleſiaſti<g ref="char:EOLhyphen"/>call, in manifeſt breach of and contrary to the Lawes and Statutes of this Realme, in that behalfe eſtabliſhed.</p>
+            </div>
+            <div n="19" type="article">
+               <head>XIX.</head>
+               <p>That the ſaid Earle having taxed and levied the ſaid impoſitions, and raiſed the ſaid Monopolies, and committed the ſaid oppreſſions in his Majeſties name, and as by his Majeſties Royall command, he the ſaid Earle in May the fifteenth yeare of his
+<pb n="32" facs="tcp:160:18"/>Majeſties Reigne, did of his owne authori<g ref="char:EOLhyphen"/>tie contrive and frame a new and unuſuall oath, by the purport whereof among many other things, the party taking the ſaid oath, was to ſweare that hee ſhould not proteſt againſt any of his Majeſties Royall com<g ref="char:EOLhyphen"/>mands, but ſubmit themſelves in all obedi<g ref="char:EOLhyphen"/>ence thereunto. Which oath he ſo contri<g ref="char:EOLhyphen"/>ved to enforce the ſame on the ſubjects of the Scottiſh Nation, inhabiting in Ireland, and out of a hatred to the ſaid Nation, and to put them to a diſcontent with his Maje<g ref="char:EOLhyphen"/>ſty, and his government there, and compel<g ref="char:EOLhyphen"/>led divers of his Majeſties ſaid Subjects there to take the ſaid oath, ſome he grie<g ref="char:EOLhyphen"/>vouſly fined and impriſoned, and others he deſtroyed and exiled, and namely, the 10. of October, <hi>Anno Dom.</hi> 1639. he fined <hi>Hen<g ref="char:EOLhyphen"/>ry Steward</hi> and his wife, who refuſed to take the ſaid oath, five thouſand pounds a piece, and their two daughters &amp; <hi>James Gray,</hi> three thouſand pounds a piece, and impriſoned them for not paying the ſaid fines. The ſaid <hi>Henry Stewards</hi> wife and daughters &amp; <hi>James Gray,</hi> being the Kings liege people of the Scottiſh Nation, and divers others he uſed in the like manner; and the ſaid Earle upon that occaſion did declare, that the ſaid oath did not onely oblige them in point of alle<g ref="char:EOLhyphen"/>giance
+<pb n="33" facs="tcp:160:18"/>to his Majeſty, and acknowledge<g ref="char:EOLhyphen"/>ment of his Supremacy onely, but to the Ceremonies &amp; government of the Church eſtabliſhed, or to be eſtabliſhed by his Ma<g ref="char:EOLhyphen"/>jeſties royall Authoritie; and ſaid, that the refuſers to obey, he would proſecute to the blood.</p>
+            </div>
+            <div n="20" type="article">
+               <head>XX.</head>
+               <p>That the ſaid Earle in the 15. and 16. yeares of his Majeſties Reigne, and divers yeares paſt, laboured and endeavoured to beget in his Majeſtie an ill opinion of his Subjects, namely, thoſe of the Scottiſh Na<g ref="char:EOLhyphen"/>tion, and diverſe and ſundry times, and eſpe<g ref="char:EOLhyphen"/>cially ſince the pacification made by his Majeſty with his ſaid Subjects of Scotland in Summer, in the fifteenth yeare of his Ma<g ref="char:EOLhyphen"/>jeſties reigne; he, the ſaid Earle did labour and endeavour to perſwade, incite, and pro<g ref="char:EOLhyphen"/>voke his Majeſtie to an offenſive warre a<g ref="char:EOLhyphen"/>gainſt his ſaid Subjects of the Scottiſh Na<g ref="char:EOLhyphen"/>tion: and the ſaid Earle, by his counſell, actions, and endeavours, hath beene and is a principall and chiefe incendiary of the warre and diſcord betweene his Majeſty and his Subjects of England, and the ſaid Subjects of Scotland, and hath declared,
+<pb n="34" facs="tcp:160:19"/>and adviſed his Majeſtie, that the demand made by the Scots in this Parliament were a ſufficient cauſe of warre againſt them. The ſaid Earle having formerly expreſſed the height and rancor of his minde towards his Subjects of the Socttiſh Nation, <hi>viz.</hi> the tenth day of October, in the fifteenth yeare of his Majeſties Reigne, he ſaid that the Nation of the Scots were rebels, and traytors; and he being then about to come to England, he then further ſaid, that if it pleaſed his Maſter (meaning his Majeſtie) to ſend him backe againe, he would roote out of the ſaid Kingdome (meaning the Kingdome of Ireland) the Scottiſh Nati<g ref="char:EOLhyphen"/>on both root and branch. Some Lords, and others, who had taken the ſaid Oath in the precedent Article onely excepted: and the ſaid Earle hath cauſed divers of the ſaid Ships and goods of the Scots to be ſtayed, ſeized, and moleſted, to the intent to ſet on the ſaid warre.</p>
+            </div>
+            <div n="21" type="article">
+               <head>XXI.</head>
+               <p>That the ſaid Earle of <hi>Strafford,</hi> ſhortly after his ſpeeches mentioned in the laſt precedent Article, to wit, in the fifteenth yeare of his Majeſties Reign, came into this
+<pb n="35" facs="tcp:160:19"/>Realme of England, and was made Lord Lieutenant of Ireland, and continued his government of that Kingdome by a Depu<g ref="char:EOLhyphen"/>ty: At his arrivall here, finding that his Majeſty with much wiſedome and good<g ref="char:EOLhyphen"/>neſſe had compoſed the troubles in the North, and had made a Pacification with his Subjects of Scotland; he laboured by all meanes to procure his Majeſty to breake that pacification, incenſing his Majeſty a<g ref="char:EOLhyphen"/>gainſt his Subjects of that Kingdome, and the proceedings of the Parliament there. And having incenſed his Majeſty to an of<g ref="char:EOLhyphen"/>fenſive warre againſt his ſaid Subjects of Scotland, by Sea and by Land; and by pretext thereof, to raiſe Forces for the maintenance of that warre: he counſelled his Majeſtie to call a Parliament in Eng<g ref="char:EOLhyphen"/>land, yet the ſaid Earle intended, if the ſaid proceedings of that Parliament ſhould not be ſuch as would ſtand with the ſaid Earle of <hi>Straffords</hi> miſchievous deſignes, hee would then procure his Majeſtie to breake the ſame, and by wayes of force and power, to raiſe monies upon the ſaid Subjects of this Kingdome.</p>
+               <p>And for the incouragement of his Ma<g ref="char:EOLhyphen"/>jeſty to hearken to his advice, he did before
+<pb n="36" facs="tcp:160:20"/>his Majeſty and his Privie Councell, then ſitting in Counſell, make a large Declara<g ref="char:EOLhyphen"/>tion, that he would ſerve his Majeſty in any other way, in caſe the Parliament ſhould not ſupply him.</p>
+            </div>
+            <div n="22" type="article">
+               <head>XXII.</head>
+               <p>That in the moneth of March, before the beginning of the laſt Parliament, the ſaid Earle of <hi>Strafford</hi> went into Ireland, and procured the Parliament of that King<g ref="char:EOLhyphen"/>dome to declare their aſſiſtance in a warre againſt the Scots. And gave directions for the raiſing of an Army conſiſting of 8000. foot, and 1000. horſe, being for the moſt part Papiſts, as aforeſaid. And confedera<g ref="char:EOLhyphen"/>ting with one Sir <hi>George Radcliffe,</hi> did toge<g ref="char:EOLhyphen"/>ther with him the ſaid Sir <hi>George,</hi> trayte<g ref="char:EOLhyphen"/>rouſly conſpire to imploy the ſaid Army for the ruine and deſtruction of the King<g ref="char:EOLhyphen"/>dome of England, and of his Majeſties Sub<g ref="char:EOLhyphen"/>jects, and of altering and ſubverting of the fundamentall Lawes of this Kingdome.</p>
+               <p>And ſhortly after, the ſaid Earle of <hi>Straf<g ref="char:EOLhyphen"/>ford</hi> returned into England, and to ſundry perſons declared his opinion to be, <hi>that his Majeſty ſhould firſt try the Parliament here,
+<pb n="37" facs="tcp:160:20"/>and if that did not ſupply him according to his occaſions, he might then uſe his Prerogative as he pleaſed, to levie what he needed, and that he ſhould be acquitted both of God and man, if he tooke ſome other courſes to ſupply himſelfe, though it were againſt the will of his Sub<g ref="char:EOLhyphen"/>jects.</hi>
+               </p>
+            </div>
+            <div n="23" type="article">
+               <head>XXIII.</head>
+               <p>That upon the thirteenth day of Aprill laſt, the Parliament of England met, and the Commons houſe (then being the repre<g ref="char:EOLhyphen"/>ſentative Body of all the Commons in the Kingdome) did according to the truſt repoſed in them, enter into debate and con<g ref="char:EOLhyphen"/>ſideration of the great grievances of this Kingdome, both in reſpect of Religion, and the publike Libertie of the Kingdome; and his Majeſty referring chiefly to the ſaid Earle of <hi>Strafford,</hi> and the Archbiſhop of <hi>Canterbury,</hi> the ordering and diſpoſing of all matters concerning the Parliament: He the ſaid Earle of <hi>Strafford,</hi> with the aſ<g ref="char:EOLhyphen"/>ſiſtance of the ſaid Archbiſhop, did pro<g ref="char:EOLhyphen"/>cure his Majeſty, by ſundry ſpeeches and meſſages, to urge the ſaid Commons houſe to enter into ſome reſolution for his Maje<g ref="char:EOLhyphen"/>ſties ſupply, for maintenance of his warre
+<pb n="38" facs="tcp:160:21"/>againſt his Subjects of Scotland, before any courſe was taken for the reliefe of the great and preſſing grievances, wherewith this Kingdome was then afflicted. Where<g ref="char:EOLhyphen"/>upon, a demand was then made from his Majeſty, of twelve Subſidies, for the re<g ref="char:EOLhyphen"/>leaſe of Ship-money onely; and while the ſaid Commons then aſſembled (with ex<g ref="char:EOLhyphen"/>preſſions of great affection to his Majeſty and his ſervice) were in debate and conſi<g ref="char:EOLhyphen"/>deration of ſome ſupply, before reſolution by them made, He the ſaid Earle of <hi>Straf<g ref="char:EOLhyphen"/>ford,</hi> with the helpe and aſſiſtance of the ſaid Archbiſhop, did procure his Majeſty to diſſolve the laſt Parliament, upon the fifth day of May laſt: and upon the ſame day, the ſaid Earle of <hi>Strafford</hi> did treache<g ref="char:EOLhyphen"/>rouſly, falſely, and maliciouſly endeavour to incenſe his Majeſty againſt his loving and faithfull Subjects, who had been mem<g ref="char:EOLhyphen"/>bers of the ſaid houſe of Commons, by telling his Majeſty, they had denied to ſupply him. And afterward upon the ſame, did treacherouſly and wickedly counſell and adviſe his Majeſtie to this effect, <hi>viz. that having tryed the affections of his people, hee was looſe and abſolved from all Rules of government, and was to doe every thing that power would admit, and that his Majeſty had
+<pb n="39" facs="tcp:160:21"/>tryed alwaies, and was refuſed, and ſhould bee acquitted both of God and man; and that Hee had an Army in Ireland</hi> (meaning the Army above mentioned, conſiſting of Papiſts, his dependants, as is aforeſaid) <hi>which Hee might imploy to reduce this Kingdome to obe<g ref="char:EOLhyphen"/>dience.</hi>
+               </p>
+            </div>
+            <div n="24" type="article">
+               <head>XXIV.</head>
+               <p>That in the ſame moneth of <hi>May,</hi> He the ſaid Earle of <hi>Strafford,</hi> falſly, treacherouſly, and maliciouſly, publiſhed and declared before others of his Majeſties Privie Coun<g ref="char:EOLhyphen"/>cell, that the Parliament of <hi>England</hi> had forſaken the King, and that in denying to ſupply the King, they had given him the advantage to ſupply himſelfe by other waies: and divers other times he did mali<g ref="char:EOLhyphen"/>ciouſly, wickedly, and falſly publiſh and declare, that ſeeing the Parliament had re<g ref="char:EOLhyphen"/>fuſed to ſupply his Majeſty in the ordinary and uſuall way, the King might provide for the Kingdome in ſuch waies, as hee ſhould hold fit, and that he was not to ſuffer him<g ref="char:EOLhyphen"/>ſelfe to be maſtered by the frowardneſſe of the people.</p>
+               <p>And having ſo maliciouſly ſlandered the
+<pb n="40" facs="tcp:160:22" rendition="simple:additions"/>ſaid houſe of Commons, hee did with the helpe and advice of the ſaid Arch-biſhop of <hi>Canterbury</hi> and the Lord <hi>Finch,</hi> late Lord Keeper of the great Seale of <hi>England:</hi> cauſe to bee printed, and publiſhed in his Majeſties name, a falſe and ſcandalous book intituled, <hi>His Majesties Declaration</hi> of the pauſes that mooved him to diſſolve the laſt Parliament, full of bitter and malicious in<g ref="char:EOLhyphen"/>vectives, and falſe, and ſcandalous aſperſi<g ref="char:EOLhyphen"/>ons againſt the ſaid houſe of Commons.</p>
+            </div>
+            <div n="25" type="article">
+               <head>XXV.</head>
+               <p>That not long after the diſſolution of the ſaid laſt <hi>Parliament,</hi> (<hi>viz.</hi> In the monethes of <hi>May</hi> and <hi>June</hi>) hee the Earle of <hi>Straffard</hi> did adviſe the King to goe on rigorouſly in leavying the Ship-Money, and did procure the Sheriffes of ſeverall Countries to be ſent for, for not levying the Ship-mony, divers of which were threat<g ref="char:EOLhyphen"/>ned by him to be ſued in the Starchamber, and afterwards by his advice were ſued in the Starchamber, for not levying the ſame, and divers of his Majeſties loving Subjects were ſent for and impriſoned by his advice, about that and other illegall payments.</p>
+               <pb n="41" facs="tcp:160:22"/>
+               <p> And a great loane of a hundred thouſand pounds was demanded of the City of Lon<g ref="char:EOLhyphen"/>don, and the Lord Major and the Alder<g ref="char:EOLhyphen"/>men and the Sheriffes of the ſaid City, were often ſent for by his advice to the Councel Table, to give an account of their procee<g ref="char:EOLhyphen"/>dings in raiſing of Ship-mony, and furthe<g ref="char:EOLhyphen"/>ring of that loane, and were required to cer<g ref="char:EOLhyphen"/>tifie the names of ſuch Inhabitants of the ſaid City as were fit to lend, which they with much humility refuſing to doe, he the ſaid Earle of <hi>Strafford</hi> did uſe theſe or the like ſpeeches: <hi>viz. That they deſerved to be put to Fine and Ranſom, and that no good would be done with them, till an example were made of them, and they were laid by the heeles, and ſome of the Aldermen hanged up.</hi>
+               </p>
+            </div>
+            <div n="26" type="article">
+               <head>XXVI.</head>
+               <p>That the ſaid Earle of <hi>Strafford</hi> by his wicked counſell having brought his Maje<g ref="char:EOLhyphen"/>ſtie into exceſſive charges without any juſt cauſe, he did in the moneth of Iuly laſt (for the ſupport of the ſaid great charges) coun<g ref="char:EOLhyphen"/>ſell and approve two dangerous and wicked Projects: <hi>viz.</hi>
+               </p>
+               <pb n="40" facs="tcp:160:23" rendition="simple:additions"/>
+               <p> To ſeize upon the Bullion and the Mo<g ref="char:EOLhyphen"/>ney in the Mint.</p>
+               <p>And to imbaſe his Majeſties Coine with the mixtures of Braſſe.</p>
+               <p>And accordingly <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> procured one hun<g ref="char:EOLhyphen"/>dred &amp; thirty thouſand pounds which was then in the Mint, and belonging to divers Merchants, ſtrangers &amp; others, to be ſeized on and ſtayed to his Majeſties uſe. And when divers Marchants of London, owners of the ſaid Bullion, came to his houſe to let him underſtand the great miſchiefe, that courſe would produce here, and in other parts, what prejudice it would bee to the Kingdome, by diſcrediting the Mint, and hindring the importation of Bullion: hee the ſaid Earle told them, that the Citie of London dealt undutifully and unthankeful<g ref="char:EOLhyphen"/>ly with his Majeſty: and that they were more ready to helpe the Rebell, then to helpe his Majeſty: and that if any hurt came to them, they might thanke themſelves: and that it was the courſe of other Princes, to make uſe of ſuch monies to ſerve their occaſions</p>
+               <p>And when in the ſame moneth of <hi>Iuly,</hi> the Officers of his Majeſties Mint came to him
+<pb n="41" facs="tcp:160:23"/>and gave him divers reaſons againſt the imbaſing of the ſaid mony, hee told them that the French King did uſe to ſend Com<g ref="char:EOLhyphen"/>miſſaries of Horſe with Commiſſion to ſearch into mens eſtates, and to peruſe their accompts, ſo that they may know what to levy of them by force, which they did ac<g ref="char:EOLhyphen"/>cordingly levie: and turning to the Lord <hi>Cottington</hi> then preſent, ſaid, <hi>That this was a point worthy his Lordſhips conſideration.</hi>
+               </p>
+            </div>
+            <div n="27" type="article">
+               <head>XXVII.</head>
+               <p>That in or about the moneth of <hi>Auguſt</hi> laſt he was made Lieutenant generall of all his Majeſties forces in the Northerne parts a<g ref="char:EOLhyphen"/>gainſt the Scots, and being at <hi>Yorke</hi> did in the month of <hi>September</hi> by his owne autho<g ref="char:EOLhyphen"/>rity, and without any lawfull warrant, im<g ref="char:EOLhyphen"/>poſe a Tax on his Majeſties ſubjects in the County of <hi>Yorke,</hi> of 8. pence <hi>per diem,</hi> for maintenance of every Souldier of the trai<g ref="char:EOLhyphen"/>ned bands of that County, which ſummes of mony hee cauſed to bee levied by force. And to the end to compell his Majeſties ſubjects out of feare and terrour to yeeld to the payment of the ſame, He did declare that hee would commit them that refuſed the payment thereof, and the Souldiers
+<pb n="44" facs="tcp:160:24"/>ſhould be ſatisfied out of their eſtates; and they that refuſed it, were in very little bet<g ref="char:EOLhyphen"/>ter condition then of High Treaſon.</p>
+            </div>
+            <div n="28" type="article">
+               <head>XXVIII.</head>
+               <p>That in the moneth of <hi>September</hi> and <hi>October</hi> laſt, hee the ſaid Earle of <hi>Strafford</hi> being certified of the Scottiſh Army com<g ref="char:EOLhyphen"/>ming into the Kingdome, and hee the ſaid Earle of <hi>Strafford</hi> being Lieutenant gene<g ref="char:EOLhyphen"/>rall of his Majeſties Army, did not provide for the defence of the Towne of Newca<g ref="char:EOLhyphen"/>ſtle as He ought to have done, but ſuffered the ſame to be loſt, that ſo hee might the more incenſe the Engliſh againſt the <hi>Scots.</hi> And for the ſame wicked purpoſe, and out of a malicious deſire to ingage the King<g ref="char:EOLhyphen"/>domes of England and <hi>Scotland</hi> in a Natio<g ref="char:EOLhyphen"/>nall and bloody war, hee did write to the <hi>Lord Conway</hi> the generall of the horſe, and under the ſaid Earles command, that hee ſhould fight with the Scottiſh Army at the paſſage over the Tyne, whatſoever ſhould follow, notwithſtanding that the ſaid <hi>Lord Conway</hi> had formerly by Letters informed him the ſaid Earle, that his Majeſties Army then under his command, was not of force ſufficient to incounter the Scots, by which
+<pb n="45" facs="tcp:160:24"/>advice of his, hee did contrary to the duty of his place betray his Majeſties Army then under his command, to apparent dan<g ref="char:EOLhyphen"/>ger and loſſe.</p>
+               <p>All and every which words, counſells, and actions of the ſaid Earle of <hi>Strafford</hi> traiterouſly and contrary to his allegiance to our Soveragne Lord the King, and with an intention and endeavour to alienate and withdraw the hearts and affections of the Kings liege people of all his Realmes from his Majeſty, and to ſet a diviſion betweene them, and to ruine and deſtroy His Maje<g ref="char:EOLhyphen"/>ſties ſaid Kingdomes. For which they doe further impeach him the ſaid <hi>Thomas, Earle of Strafford</hi> of High Treaſon againſt our Soveraigne Lord the King, his Crowne and dignity.</p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
